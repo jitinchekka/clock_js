@@ -1,0 +1,15 @@
+.dark-mode-img{
+	top: 85vh;
+	left: 0;
+	position: absolute;
+	cursor: pointer;
+}
+.dark-mode{
+	background-color: black;
+	color: white;
+}
+
+.light-mode{
+	color: black;
+	background-color: white;
+}
